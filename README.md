@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rokuzeudon</h1>
+<h1 align="center">Hi 👋, I'm Genta Awaya</h1>
 <h3 align="center">A passionate ui designer from Japan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokuzeudon" alt="rokuzeudon" /> </p>
 
